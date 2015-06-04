@@ -1,4 +1,4 @@
-#!/usr/local/bin/python2.6
+#!/usr/bin/python
 """
 Usage vcf_gff.py <vcf_file input> <gff_file output>
 
